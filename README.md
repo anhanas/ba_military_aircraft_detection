@@ -42,3 +42,7 @@ Run all the cells. It will automatically download the `.zip` file using curl, ex
 ### 5. Verify with Visualization
 Once the dataset is prepared, you can visualize the results.
 Run the notebook to randomly pick images from your generated `train` folder, convert the YOLO OBB labels back to pixel coordinates, and display the original image side-by-side with its bounding box overlay. This ensures your data preparation pipeline worked flawlessly!
+
+### 6. Data Analysis
+Before training, it is critical to understand the dataset statistics (class imbalance, object density, spatial distribution).
+Run this notebook to parse all the generated labels and produce detailed `pandas` and `seaborn` visualizations of the dataset's health.
