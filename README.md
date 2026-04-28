@@ -11,7 +11,7 @@ Follow these steps to get started:
 ### 1. Create a Virtual Environment
 Run the following command to create a virtual environment named `.venv` in the project root:
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 ```
 
 ### 2. Activate the Environment
@@ -38,3 +38,7 @@ We do not track the raw dataset or the generated YOLO labels in git to prevent r
 
 Run all the cells. It will automatically download the `.zip` file using curl, extract it, split the data, normalize the bounding boxes, and organize everything in `data/train`, `data/validation`, and `data/test`!
 *(Note: You must have access to download this Kaggle dataset via curl, or authenticate if required.)*
+
+### 5. Verify with Visualization
+Once the dataset is prepared, you can visualize the results.
+Run the notebook to randomly pick images from your generated `train` folder, convert the YOLO OBB labels back to pixel coordinates, and display the original image side-by-side with its bounding box overlay. This ensures your data preparation pipeline worked flawlessly!
