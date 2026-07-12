@@ -1,0 +1,1408 @@
+{
+  "accuracy": 0.18,
+  "correct": 36,
+  "total": 200,
+  "split": "test",
+  "results": [
+    {
+      "image": "1002.jpg",
+      "gt": "A19",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1002.jpg",
+      "gt": "A19",
+      "pred": "A12",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1025.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1034.jpg",
+      "gt": "A1",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1052.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1070.jpg",
+      "gt": "A15",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "11.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1118.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1126.jpg",
+      "gt": "A19",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1162.jpg",
+      "gt": "A6",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1170.jpg",
+      "gt": "A7",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1173.jpg",
+      "gt": "A16",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1176.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1195.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1207.jpg",
+      "gt": "A7",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1267.jpg",
+      "gt": "A5",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1272.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1280.jpg",
+      "gt": "A15",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1290.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1307.jpg",
+      "gt": "A20",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1314.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1321.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1336.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1354.jpg",
+      "gt": "A12",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1366.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1372.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1417.jpg",
+      "gt": "A20",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1434.jpg",
+      "gt": "A13",
+      "pred": "A15",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1437.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1449.jpg",
+      "gt": "A14",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1492.jpg",
+      "gt": "A13",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1492.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1510.jpg",
+      "gt": "A3",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1519.jpg",
+      "gt": "A2",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1534.jpg",
+      "gt": "A12",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1546.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1557.jpg",
+      "gt": "A15",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1567.jpg",
+      "gt": "A8",
+      "pred": "A8",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1577.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1600.jpg",
+      "gt": "A2",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1619.jpg",
+      "gt": "A9",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1648.jpg",
+      "gt": "A1",
+      "pred": "A1",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1662.jpg",
+      "gt": "A17",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1678.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1747.jpg",
+      "gt": "A5",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1760.jpg",
+      "gt": "A7",
+      "pred": "A12",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1788.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1796.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1821.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1851.jpg",
+      "gt": "A5",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1864.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1910.jpg",
+      "gt": "A16",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1913.jpg",
+      "gt": "A12",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1925.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1953.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1977.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1985.jpg",
+      "gt": "A1",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "1999.jpg",
+      "gt": "A13",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "205.jpg",
+      "gt": "A17",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2052.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2057.jpg",
+      "gt": "A13",
+      "pred": "A12",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2080.jpg",
+      "gt": "A12",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2099.jpg",
+      "gt": "A14",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2108.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2117.jpg",
+      "gt": "A5",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2129.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2129.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2131.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2145.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2170.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2211.jpg",
+      "gt": "A20",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2243.jpg",
+      "gt": "A14",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2281.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2293.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2311.jpg",
+      "gt": "A17",
+      "pred": "A8",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2323.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2352.jpg",
+      "gt": "A8",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2361.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2378.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "24.jpg",
+      "gt": "A10",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2400.jpg",
+      "gt": "A4",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2424.jpg",
+      "gt": "A8",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2428.jpg",
+      "gt": "A16",
+      "pred": "A16",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2428.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2465.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "248.jpg",
+      "gt": "A8",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2500.jpg",
+      "gt": "A20",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2515.jpg",
+      "gt": "A9",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2532.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2552.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2589.jpg",
+      "gt": "A17",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "261.jpg",
+      "gt": "A8",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "264.jpg",
+      "gt": "A10",
+      "pred": "A10",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2662.jpg",
+      "gt": "A19",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2684.jpg",
+      "gt": "A17",
+      "pred": "A14",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2696.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2702.jpg",
+      "gt": "A20",
+      "pred": "A8",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2706.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2730.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2750.jpg",
+      "gt": "A16",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2750.jpg",
+      "gt": "A16",
+      "pred": "A16",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "276.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2773.jpg",
+      "gt": "A1",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2782.jpg",
+      "gt": "A9",
+      "pred": "A14",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2798.jpg",
+      "gt": "A1",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2809.jpg",
+      "gt": "A10",
+      "pred": "A10",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2821.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2821.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2828.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2874.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2889.jpg",
+      "gt": "A19",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2899.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "291.jpg",
+      "gt": "A8",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2926.jpg",
+      "gt": "A12",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2946.jpg",
+      "gt": "A2",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2946.jpg",
+      "gt": "A2",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2950.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2978.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "2982.jpg",
+      "gt": "A9",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3010.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3011.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3022.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3057.jpg",
+      "gt": "A10",
+      "pred": "A10",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3068.jpg",
+      "gt": "A20",
+      "pred": "A15",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3121.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3137.jpg",
+      "gt": "A12",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3160.jpg",
+      "gt": "A5",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3223.jpg",
+      "gt": "A13",
+      "pred": "A14",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3228.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3267.jpg",
+      "gt": "A19",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3280.jpg",
+      "gt": "A16",
+      "pred": "A16",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3293.jpg",
+      "gt": "A1",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3315.jpg",
+      "gt": "A20",
+      "pred": "A8",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3330.jpg",
+      "gt": "A19",
+      "pred": "A19",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3417.jpg",
+      "gt": "A15",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "344.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3456.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3483.jpg",
+      "gt": "A13",
+      "pred": "A15",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "349.jpg",
+      "gt": "A11",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3528.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3550.jpg",
+      "gt": "A15",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3561.jpg",
+      "gt": "A20",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3659.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3661.jpg",
+      "gt": "A5",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3682.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3700.jpg",
+      "gt": "A17",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3720.jpg",
+      "gt": "A1",
+      "pred": "A1",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3730.jpg",
+      "gt": "A20",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3742.jpg",
+      "gt": "A17",
+      "pred": "A3",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3757.jpg",
+      "gt": "A17",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3775.jpg",
+      "gt": "A6",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3812.jpg",
+      "gt": "A12",
+      "pred": "A12",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3814.jpg",
+      "gt": "A19",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "3833.jpg",
+      "gt": "A9",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "399.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "428.jpg",
+      "gt": "A9",
+      "pred": "A9",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "439.jpg",
+      "gt": "A1",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "481.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "489.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "521.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "533.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "538.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "542.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "549.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "552.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "565.jpg",
+      "gt": "A3",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "568.jpg",
+      "gt": "A3",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "576.jpg",
+      "gt": "A3",
+      "pred": "A14",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "578.jpg",
+      "gt": "A18",
+      "pred": "A18",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "597.jpg",
+      "gt": "A4",
+      "pred": "A2",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "599.jpg",
+      "gt": "A18",
+      "pred": "A14",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "619.jpg",
+      "gt": "A4",
+      "pred": "A4",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "644.jpg",
+      "gt": "A3",
+      "pred": "A7",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "647.jpg",
+      "gt": "A3",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "671.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "682.jpg",
+      "gt": "A14",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "699.jpg",
+      "gt": "A14",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "702.jpg",
+      "gt": "A7",
+      "pred": "A6",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "71.jpg",
+      "gt": "A3",
+      "pred": "A9",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "725.jpg",
+      "gt": "A13",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "769.jpg",
+      "gt": "A15",
+      "pred": "A13",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "794.jpg",
+      "gt": "A12",
+      "pred": "A16",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "8.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "825.jpg",
+      "gt": "A4",
+      "pred": "A4",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "826.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "849.jpg",
+      "gt": "A20",
+      "pred": "A12",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "870.jpg",
+      "gt": "A10",
+      "pred": "A10",
+      "ok": true,
+      "mode": "few-shot"
+    },
+    {
+      "image": "875.jpg",
+      "gt": "A5",
+      "pred": "A18",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "88.jpg",
+      "gt": "A3",
+      "pred": "A11",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "887.jpg",
+      "gt": "A19",
+      "pred": "A8",
+      "ok": false,
+      "mode": "few-shot"
+    },
+    {
+      "image": "901.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "mode": "few-shot"
+    }
+  ]
+}

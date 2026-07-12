@@ -1,0 +1,1408 @@
+{
+  "accuracy": 0.095,
+  "correct": 19,
+  "total": 200,
+  "split": "test",
+  "results": [
+    {
+      "image": "1002.jpg",
+      "gt": "A19",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings mounted high on the fuselage, a streamlined tapered fuselage with a pointed nose, two rear - mounted turbofan engines, and a T - tail configuration. Distinctive elements include its sharp nose profile and compact aerodynamic design."
+    },
+    {
+      "image": "1002.jpg",
+      "gt": "A19",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft features swept-back mid - wing configuration, a streamlined fuselage, two underwing turbofan engines, a T - tail with horizontal stabilizers mounted above the vertical fin, and a pointed nose."
+    },
+    {
+      "image": "1025.jpg",
+      "gt": "A16",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept-back mid - wings with a straight leading edge, a streamlined fuselage featuring a pointed nose, twin jet engines mounted under the wings, a conventional vertical stabilizer paired with horizontal stabilizers, and distinctive visual traits such as an angular tail fin or bubble canopy."
+    },
+    {
+      "image": "1034.jpg",
+      "gt": "A1",
+      "pred": "A13",
+      "ok": false,
+      "desc": "This military jet has swept-back wings (likely delta configuration), a streamlined fuselage with a pointed nose, two engines mounted under the wings, a conventional vertical tail assembly, and visible afterburner exhausts. Its design emphasizes aerodynamic efficiency for high-speed flight."
+    },
+    {
+      "image": "1052.jpg",
+      "gt": "A5",
+      "pred": "A10",
+      "ok": false,
+      "desc": "This military jet features swept wings with a forward canard, a sleek aerodynamic fuselage, a single engine mounted at the rear, twin vertical stabilizers, and delta - like wing geometry."
+    },
+    {
+      "image": "1070.jpg",
+      "gt": "A15",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The aircraft has a delta - wing configuration with swept - back leading edges, a streamlined fuselage, and a single engine mounted on the fuselage. It features a T - tail with vertical stabilizers and horizontal stabilizers at the top, and its angular design is characteristic of a supersonic military fighter."
+    },
+    {
+      "image": "11.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "desc": "This military aircraft is a four - engine turboprop transport with high, straight wings; its fuselage is robust and rectangular for cargo capacity. It has a T - tail design (horizontal stabilizers atop the vertical fin) and distinctive features include the boxy shape and four engines mounted under the wings."
+    },
+    {
+      "image": "1118.jpg",
+      "gt": "A3",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The military aircraft has high - mounted swept wings with a straight leading edge, a long cylindrical fuselage with a pointed nose, four jet engines mounted under the wings, and a conventional tail with twin vertical stabilizers. Its distinctive features include the swept - wing design and four - engine configuration typical of a heavy strategic bomber."
+    },
+    {
+      "image": "1126.jpg",
+      "gt": "A19",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a single engine mounted at the rear of the fuselage; its fuselage is streamlined and cylindrical, while the tail features a vertical stabilizer paired with horizontal stabilizers. A star insignia on the fuselage serves as a distinctive visual feature."
+    },
+    {
+      "image": "1162.jpg",
+      "gt": "A6",
+      "pred": "A10",
+      "ok": false,
+      "desc": "This military aircraft has swept wings with a mid - mounted configuration, a sleek pointed - shaped fuselage, two underwing engines, twin vertical tail fins, and no overt distinctive markings\u2014typical of a modern fighter design."
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A20",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a high-mounted configuration, a streamlined fuselage, twin engines mounted under the wings, a conventional tail with vertical and horizontal stabilizers, and no prominent distinctive markings beyond its jet-powered design."
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A18",
+      "ok": false,
+      "desc": "The aircraft has high - mounted straight wings, a cylindrical fuselage, two underwing engines, a T - tail configuration (horizontal stabilizers on top of the vertical tail), and a simple, functional appearance characteristic of light military transport/utility planes."
+    },
+    {
+      "image": "1166.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "desc": "This military aircraft has a high - wing configuration with straight wings, a rectangular fuselage optimized for cargo transport, four turboprop engines mounted under the wings, a conventional tail with horizontal stabilizers at the base of the vertical stabilizer, and distinctive underwing hardpoints."
+    },
+    {
+      "image": "1170.jpg",
+      "gt": "A7",
+      "pred": "A9",
+      "ok": false,
+      "desc": "The military aircraft has swept - back low wings with a mid - fuselage engine placement, a slender pointed fuselage, two jet engines mounted under the wings, a conventional tail featuring twin vertical stabilizers, and no visible external armaments or unique markings."
+    },
+    {
+      "image": "1173.jpg",
+      "gt": "A16",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings (mid - mounted), a slender, tapered fuselage with a pointed nose, twin jet engines under the wings, a conventional tail design with vertical and horizontal stabilizers, and an overall compact, aerodynamic shape characteristic of a fighter jet."
+    },
+    {
+      "image": "1176.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The military aircraft has high - set straight wings with four underwing - mounted engines, a long cylindrical fuselage, a conventional tail featuring horizontal stabilizers at the rear and a central vertical fin, and a gray military paint scheme. Its design indicates it is likely a large transport or bomber type."
+    },
+    {
+      "image": "1195.jpg",
+      "gt": "A14",
+      "pred": "A11",
+      "ok": false,
+      "desc": "This military aircraft has high - wing, swept - back wings; a long, slender fuselage; eight underwing turbofan engines; a T - tail; and a bulky profile with multiple engine nacelles characteristic of a heavy strategic bomber (e.g., the B - 52 Stratofortress)."
+    },
+    {
+      "image": "1207.jpg",
+      "gt": "A7",
+      "pred": "A4",
+      "ok": false,
+      "desc": "This military aircraft has a high - wing configuration with four engines mounted under the wings. It features a long, cylindrical fuselage and a T - tail design (horizontal stabilizers atop the vertical stabilizer). Distinctive elements include its large size for cargo transport and underwing pylons."
+    },
+    {
+      "image": "1267.jpg",
+      "gt": "A5",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings (likely delta or swept), a single engine under the fuselage, a streamlined pointed nose, and a conventional tail with vertical/horizontal stabilizers. Its compact, angular shape is typical of a supersonic fighter."
+    },
+    {
+      "image": "1272.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft features swept wings, a sleek fuselage, two engines, and twin vertical stabilizers; its distinct shape includes an aerodynamic profile and twin tail configuration characteristic of contemporary fighter designs."
+    },
+    {
+      "image": "1280.jpg",
+      "gt": "A15",
+      "pred": "A13",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings, a streamlined fuselage with a pointed nose, a single jet engine integrated into the fuselage, a vertical stabilizer paired with horizontal tailplanes, and a compact silhouette indicative of a lightweight fighter."
+    },
+    {
+      "image": "1290.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a mid - fuselage engine configuration, a slender aerodynamic fuselage with a pointed nose, twin engines mounted under the fuselage, a single vertical stabilizer paired with horizontal tails, and distinctive angular wingtips."
+    },
+    {
+      "image": "1307.jpg",
+      "gt": "A20",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back delta wings, a streamlined fuselage with a pointed nose, twin engines mounted under the wings, a conventional tail with vertical stabilizers, and distinctive wingtip extensions."
+    },
+    {
+      "image": "1314.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft has a high - wing configuration with straight wings and four turboprop engines mounted under them. Its fuselage is boxy with a rear cargo access door, and it features a conventional tail assembly. Distinctive elements include the four - engine layout and a robust, utilitarian design suited for transport missions."
+    },
+    {
+      "image": "1321.jpg",
+      "gt": "A5",
+      "pred": "A5",
+      "ok": true,
+      "desc": "The military aircraft features swept - back wings (with a delta - like shape), a streamlined fuselage with a pointed nose, two engines mounted under the wings, twin vertical stabilizers with horizontal tails, and an angular, compact design characteristic of modern fighters."
+    },
+    {
+      "image": "1336.jpg",
+      "gt": "A5",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with leading - edge extensions, a streamlined fuselage, and twin engines mounted on the rear fuselage. It features a T - tail configuration and a pointed nose; distinctive visual elements include its low - profile design and aerodynamic shape typical of modern fighter jets."
+    },
+    {
+      "image": "1354.jpg",
+      "gt": "A12",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with a single engine mounted under the fuselage. The fuselage is slender and pointed at the nose, featuring a vertical tail with horizontal stabilizers. It has a compact, aerodynamic design typical of a lightweight fighter jet."
+    },
+    {
+      "image": "1366.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "desc": "<|begin_of_box|>The military aircraft has swept, high - mounted wings with four engines mounted under the wings; a long, cylindrical fuselage; a tail with twin vertical stabilizers; and distinctive U.S. Air Force markings.<|end_of_box|>"
+    },
+    {
+      "image": "1372.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The aircraft features straight wings with leading edge extensions, a single - seat robust fuselage, twin turbofan engines, conventional vertical stabilizers, and distinctive \u201chockey - stick\u201d - shaped wings characteristic of the A - 10 Thunderbolt II."
+    },
+    {
+      "image": "1417.jpg",
+      "gt": "A20",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a mid - fuselage mounting, a streamlined fuselage, twin engines under the wings, a T - tail design (swept vertical stabilizer with horizontal stabilizers at the top of the fuselage), and distinctive sharp wingtips."
+    },
+    {
+      "image": "1434.jpg",
+      "gt": "A13",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft features a single delta-wing configuration with forward sweep, a sleek tapered fuselage (single-seat), one central engine mounted in the fuselage, twin vertical stabilizers with horizontal tail surfaces at the top, and distinctive angular fighter jet lines."
+    },
+    {
+      "image": "1437.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with twin underwing engines, a streamlined fuselage with a pointed nose, and a T - tail configuration. Distinctive elements include its gray color scheme and visible landing gear."
+    },
+    {
+      "image": "1449.jpg",
+      "gt": "A14",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a straight leading edge and mid - mounted configuration. Its fuselage is long and streamlined with a pointed nose; it features two rear - mounted engines and a conventional tail assembly (vertical fin with horizontal stabilizers at its base). Distinctive visual elements include a tapered fuselage and wingtip extensions."
+    },
+    {
+      "image": "1492.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "desc": "<|begin_of_box|>The military aircraft features delta-shaped wings with a swept configuration, a sleek, pointed-fuselage design, a single engine mounted under the fuselage, a vertical tail fin, and an angular silhouette characteristic of a fighter jet.<|end_of_box|>"
+    },
+    {
+      "image": "1492.jpg",
+      "gt": "A13",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with twin under - fuselage engines, a streamlined fuselage and pointed nose, conventional tail with vertical stabilizers, and angular lines characteristic of a modern fighter jet."
+    },
+    {
+      "image": "1510.jpg",
+      "gt": "A3",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has low - mounted swept wings, a streamlined cylindrical fuselage with a pointed nose, twin engines mounted under the wings, a swept vertical tail with horizontal stabilizers at the rear, and no prominent external armament or distinctive markings."
+    },
+    {
+      "image": "1519.jpg",
+      "gt": "A2",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings with a mid - wing configuration, a streamlined fuselage, two rear - mounted engines, and a conventional tail featuring a single vertical stabilizer. Distinctive elements include a pointed nose and a compact design characteristic of a fighter jet."
+    },
+    {
+      "image": "1534.jpg",
+      "gt": "A12",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept wings (likely a high - sweep or delta configuration), a streamlined fuselage with a pointed nose, two under - fuselage mounted engines, a swept vertical tail fin, and angular, sharp visual lines typical of a fighter design."
+    },
+    {
+      "image": "1546.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "desc": "This military aircraft has swept - back delta wings, a sleek pointed fuselage with a bubble canopy, twin rear - mounted engines, and a conventional tail. Distinctive visual features include visible afterburner exhausts at the rear and an agile design typical of a fighter jet."
+    },
+    {
+      "image": "1557.jpg",
+      "gt": "A15",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings (mid - mounted), a streamlined fuselage with a pointed nose, twin engines under the wings, a conventional tail with vertical and horizontal stabilizers, and a star insignia on the fuselage. Its design reflects aerodynamic efficiency common in fighter jets."
+    },
+    {
+      "image": "1567.jpg",
+      "gt": "A8",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The aircraft has a delta (V - shaped) wing configuration with swept leading edges, a slender fuselage, one engine (likely underwing or integrated), and a triangular vertical stabilizer. Its most distinctive feature is the V - wing design, suggesting high - speed capabilities."
+    },
+    {
+      "image": "1577.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "desc": "The military aircraft features swept wings with leading - edge extensions, a sleek tapered fuselage with a bubble canopy, one engine, a single vertical stabilizer, and distinctive U.S. Air Force markings (white with blue/gray accents)."
+    },
+    {
+      "image": "1600.jpg",
+      "gt": "A2",
+      "pred": "A12",
+      "ok": false,
+      "desc": "<|begin_of_box|>This military jet features swept - back wings, a tapered fuselage with a pointed nose, two underwing engines, a vertical stabilizer paired with horizontal stabilizers (a conventional tail design), and lacks prominent distinctive external markings beyond standard camouflage.<|end_of_box|>"
+    },
+    {
+      "image": "1619.jpg",
+      "gt": "A9",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The military aircraft has high - set straight wings with four engines mounted beneath them, a long cylindrical fuselage, and a T - tail configuration. Distinctive elements include the boxy fuselage and multiple underwing engine nacelles."
+    },
+    {
+      "image": "1648.jpg",
+      "gt": "A1",
+      "pred": "A20",
+      "ok": false,
+      "desc": "This military aircraft has swept - back delta wings, a slender pointed - nose fuselage, twin engines mounted under the fuselage, a conventional tail with vertical and horizontal stabilizers, and a bubble canopy with side - mounted air intakes as distinctive visual features."
+    },
+    {
+      "image": "1662.jpg",
+      "gt": "A17",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept wings, a single vertical tail, and a streamlined fuselage with one engine. Distinctive elements include its compact design and angled wing configuration typical of a fighter jet."
+    },
+    {
+      "image": "1678.jpg",
+      "gt": "A13",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The aircraft features swept-back delta wings with leading-edge extensions, a streamlined fuselage with a pointed nose, a single rear-mounted turbofan engine, and a vertical tail with horizontal stabilizers at the rear. Distinctive angular lines suggest a modern multirole fighter design."
+    },
+    {
+      "image": "1747.jpg",
+      "gt": "A5",
+      "pred": "A20",
+      "ok": false,
+      "desc": "This military aircraft features delta - shaped wings, a slender fuselage, twin jet engines, a T - tail configuration (horizontal stabilizers atop the vertical tail), and a pointed nose, characteristic of a supersonic fighter design."
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A2",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with a low - wing configuration, a streamlined fuselage, four engines mounted under the wings, a conventional vertical stabilizer with horizontal stabilizers at its base, and no prominent distinctive markings."
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "desc": "<|begin_of_box|>The aircraft has high wings with straight leading edges, a boxy fuselage, four turboprop engines mounted on the wings, a T - tail design, and visible propellers on each wing.<|end_of_box|>"
+    },
+    {
+      "image": "1749.jpg",
+      "gt": "A14",
+      "pred": "A11",
+      "ok": false,
+      "desc": "This military aircraft has high - mounted swept wings with eight podded engines, a long cylindrical fuselage, a T - tail configuration (horizontal stabilizers atop the vertical fin), and is identifiable by its bomber - style design with distinctive engine nacelles under the swept wings."
+    },
+    {
+      "image": "1760.jpg",
+      "gt": "A7",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The military aircraft has swept (high-aspect ratio) wings, a streamlined fuselage with a pointed nose, two engines mounted under the wings, a conventional vertical stabilizer with horizontal tails, and no visible external armaments in this view."
+    },
+    {
+      "image": "1788.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "desc": "The military aircraft is a large transport plane with high - swept (swept - back) wings, a long cylindrical fuselage, four engines mounted under the wings, and a conventional tail. Distinctive features include its massive size and underwing engine configuration typical of heavy cargo aircraft."
+    },
+    {
+      "image": "1796.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "desc": "This military aircraft has high - swept wings with four underwing engines, a long cylindrical fuselage, twin vertical stabilizers at the rear, and a distinctive bomber silhouette typical of heavy strategic aircraft."
+    },
+    {
+      "image": "1821.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with leading - edge extensions, a streamlined fuselage with a bubble canopy and rear - mounted engine, two rear - mounted engines (or one if single - engine), twin vertical stabilizers with horizontal tails, and distinctive markings or shape details."
+    },
+    {
+      "image": "1851.jpg",
+      "gt": "A5",
+      "pred": "A5",
+      "ok": true,
+      "desc": "The military aircraft features swept (likely delta) wings, a slender fuselage with a pointed nose, twin engines mounted near the rear, a tall vertical tail with horizontal stabilizers, and angular, sharp edges typical of a modern fighter design."
+    },
+    {
+      "image": "1864.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings (mid - mounted) with a tapered leading edge, a streamlined fuselage optimized for aerodynamics, two under - fuselage engines, a tall vertical stabilizer paired with swept horizontal tail surfaces, and a compact, pointed nose typical of high - performance fighter design."
+    },
+    {
+      "image": "1910.jpg",
+      "gt": "A16",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings in a mid - mounted configuration, a streamlined fuselage with a pointed nose, two turbofan engines under the wings, a conventional tail with a vertical stabilizer and horizontal stabilizers at the base, and distinctive angular wingtips."
+    },
+    {
+      "image": "1913.jpg",
+      "gt": "A12",
+      "pred": "A12",
+      "ok": true,
+      "desc": "The military aircraft has swept-back wings (likely delta or straight) with a single engine, a streamlined fuselage, twin vertical stabilizers with horizontal tail surfaces, and a pointed nose. Distinctive angular wing geometry and compact profile suggest it is a fighter jet."
+    },
+    {
+      "image": "1925.jpg",
+      "gt": "A2",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The aircraft features straight wings with leading - edge extensions, a bulky fuselage with two underwing turbofan engines, a conventional tail with a single vertical stabilizer, and distinctive LEX for maneuverability in close air support roles."
+    },
+    {
+      "image": "1953.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has high, straight wings; a long, cylindrical fuselage with a pointed nose; twin engines mounted under the wings; a vertical tail with horizontal stabilizers at the top (T - tail); and a yellow square marking on one wing."
+    },
+    {
+      "image": "1977.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft has high-aspect ratio swept wings with underwing engine pylons (four engines total), a long cylindrical fuselage typical of heavy transport, and a T-tail design with horizontal stabilizers atop the vertical stabilizer. Its large size and four-engine configuration suggest a strategic military transport role."
+    },
+    {
+      "image": "1985.jpg",
+      "gt": "A1",
+      "pred": "A10",
+      "ok": false,
+      "desc": "This military aircraft has delta - shaped swept - back wings, a streamlined fuselage, and one engine. Its tail consists of a vertical stabilizer with horizontal surfaces, and it has a pointed nose characteristic of agile fighter jets."
+    },
+    {
+      "image": "1999.jpg",
+      "gt": "A13",
+      "pred": "A3",
+      "ok": false,
+      "desc": "The military aircraft features swept - back delta wings, a streamlined fuselage with a pointed nose, a single turbofan engine mounted under the wing, a conventional tail with a vertical stabilizer and rearward - mounted horizontal stabilizers, and no visible external armaments in this view."
+    },
+    {
+      "image": "205.jpg",
+      "gt": "A17",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a high - wing configuration, an elongated cylindrical fuselage, twin engines mounted on the rear fuselage, a conventional tail assembly with vertical and horizontal stabilizers, and no visible armaments or markings in this view."
+    },
+    {
+      "image": "2052.jpg",
+      "gt": "A5",
+      "pred": "A15",
+      "ok": false,
+      "desc": "The military aircraft has delta - shaped wings with forward - swept leading edges and a slender, pointed - nosed fuselage. It is powered by two engines and equipped with twin vertical stabilizers at the rear. Distinctive visual elements include its compact design optimized for high - speed maneuverability."
+    },
+    {
+      "image": "2057.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has a delta wing configuration, a slender fuselage with a pointed nose, a single engine mounted at the rear, a tall vertical stabilizer with swept horizontal tail surfaces, and a compact, angular silhouette typical of high - speed fighters."
+    },
+    {
+      "image": "2080.jpg",
+      "gt": "A12",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with leading - edge extensions, a streamlined fuselage with a pointed nose and bubble canopy, twin engines mounted under the fuselage, conventional tail with vertical stabilizers and horizontal tails, and distinctive afterburner exhausts visible as bright areas."
+    },
+    {
+      "image": "2099.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings, a streamlined tapered fuselage with a pointed nose, twin engines mounted under/fuselage sides, a T - tail configuration (horizontal stabilizers atop vertical fin), and distinctive features like canards and afterburner exhausts."
+    },
+    {
+      "image": "2108.jpg",
+      "gt": "A14",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The aircraft features low - swept wings with underwing pylons, a streamlined cylindrical fuselage with a pointed nose, twin rear - mounted engines, a conventional tail with a vertical stabilizer and horizontal surfaces at the base, and distinctive swept wing geometry."
+    },
+    {
+      "image": "2117.jpg",
+      "gt": "A5",
+      "pred": "A10",
+      "ok": false,
+      "desc": "This military aircraft has swept - back wings paired with a single vertical stabilizer and twin horizontal stabilizers at the tail. Its fuselage is streamlined for high - speed performance, powered by one engine mounted under the centerline. Distinctive elements include a pointed nose and integrated air intakes along the sides of the fuselage."
+    },
+    {
+      "image": "2129.jpg",
+      "gt": "A14",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft features swept wings with four underwing engines, a long cylindrical fuselage, and a T - tail design. Its distinctive appearance includes the large size typical of a heavy military transport or strategic bomber."
+    },
+    {
+      "image": "2129.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft is a military transport plane with a high - wing configuration, equipped with four turboprop engines mounted under the wings. It has a boxy fuselage with a rear cargo door and features a T - tail design where horizontal stabilizers are positioned atop the vertical fin."
+    },
+    {
+      "image": "2131.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "desc": "This military aircraft features high - mounted swept wings with four engines under each wing (totaling eight), a long cylindrical fuselage, a conventional tail design, and is distinguished by its swept - wing configuration typical of heavy bombers like the B - 52 Stratofortress."
+    },
+    {
+      "image": "2145.jpg",
+      "gt": "A17",
+      "pred": "A9",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a mid - mounted configuration, a streamlined fuselage, twin engines under the wings, a conventional tail with vertical stabilizers below horizontal stabilizers, and a pointed nose for high - speed performance."
+    },
+    {
+      "image": "2170.jpg",
+      "gt": "A14",
+      "pred": "A14",
+      "ok": true,
+      "desc": "This military aircraft has high - wing swept - back wings, a long cylindrical fuselage, four underwing engines, a T - tail with twin vertical stabilizers, and is a large heavy bomber with a distinctive wing/tail configuration typical of strategic bombers."
+    },
+    {
+      "image": "2211.jpg",
+      "gt": "A20",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft features swept-back wings with a tapered trailing edge, a sleek fuselage with a pointed nose, twin turbofan engines mounted under the fuselage, a T - tail design with horizontal stabilizers above the vertical stabilizer, and a bubble canopy as a distinctive visual element."
+    },
+    {
+      "image": "2243.jpg",
+      "gt": "A14",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a high - mounted configuration, a streamlined fuselage with a pointed nose, twin engines mounted under the wings, a conventional tail assembly with horizontal stabilizers at the rear of the vertical fin, and no notable additional visual features."
+    },
+    {
+      "image": "2281.jpg",
+      "gt": "A14",
+      "pred": "A13",
+      "ok": false,
+      "desc": "The aircraft is a twin - engine jet fighter with swept - back wings, a streamlined fuselage and pointed nose, a conventional tail assembly (vertical stabilizer with horizontal stabilizers), and visible afterburner exhausts at the rear."
+    },
+    {
+      "image": "2293.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The aircraft has swept - back delta wings, a streamlined fuselage with a pointed nose, a single engine mounted at the rear fuselage, and a single vertical tail fin. Distinctive visual elements include its compact design and sharp wing leading edges."
+    },
+    {
+      "image": "2311.jpg",
+      "gt": "A17",
+      "pred": "A19",
+      "ok": false,
+      "desc": "This military aircraft has a V - shaped (inverted Y) tail with twin engines under swept wings; its fuselage is streamlined and pointed at the nose, and a blue - white color scheme is distinctive."
+    },
+    {
+      "image": "2323.jpg",
+      "gt": "A11",
+      "pred": "A11",
+      "ok": true,
+      "desc": "This military aircraft features swept - back wings with four underwing engines, a long cylindrical fuselage, a T - tail design with horizontal stabilizers atop the vertical fin, and distinctive markings like \u201cU.S.\u201d on the tail and a roundel insignia."
+    },
+    {
+      "image": "2352.jpg",
+      "gt": "A8",
+      "pred": "A20",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings (or straight wings if applicable), a streamlined fuselage, one engine, a vertical tail with horizontal stabilizers, and no prominent distinctive markings beyond its functional design."
+    },
+    {
+      "image": "2361.jpg",
+      "gt": "A5",
+      "pred": "A6",
+      "ok": false,
+      "desc": "This military aircraft has swept wings (likely delta or mid - swept), a streamlined fuselage with a pointed nose, two engines mounted under the wings, a T - tail configuration with vertical stabilizers atop horizontal tails, and sharp, angular details typical of a high - performance fighter jet."
+    },
+    {
+      "image": "2378.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft features swept wings with leading - edge extensions, a sleek low - profile fuselage with a bubble canopy, one engine mounted in the rear fuselage, a single vertical tail with horizontal stabilizers at the rear, and angular lines indicative of a compact fighter design (e.g., F - 16)."
+    },
+    {
+      "image": "24.jpg",
+      "gt": "A10",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept - back delta wings, a slender fuselage, two under - fuselage engines, a single vertical tail with horizontal stabilizers, and visible afterburner exhaust as a distinctive visual element."
+    },
+    {
+      "image": "2400.jpg",
+      "gt": "A4",
+      "pred": "A4",
+      "ok": true,
+      "desc": "This military aircraft has high - mounted swept wings, a large boxy fuselage typical of a heavy transport jet, four turbofan engines (two under each wing), a T - tail configuration, and a distinctive wide - body design optimized for cargo carrying."
+    },
+    {
+      "image": "2424.jpg",
+      "gt": "A8",
+      "pred": "A3",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings (mid - mounted), a streamlined fuselage with a pointed nose, twin rear - mounted engines, a conventional tail with vertical and horizontal stabilizers, and lacks prominent external armaments\u2014emphasizing its aerodynamic design for speed and maneuverability."
+    },
+    {
+      "image": "2428.jpg",
+      "gt": "A16",
+      "pred": "A16",
+      "ok": true,
+      "desc": "This military aircraft features swept - back (likely delta or high - sweep) wings, a slender fuselage with a pointed nose, one engine, a conventional tail with vertical and horizontal stabilizers, and is a single - seat design\u2014characteristic of a modern fighter jet."
+    },
+    {
+      "image": "2428.jpg",
+      "gt": "A16",
+      "pred": "A19",
+      "ok": false,
+      "desc": "This military aircraft is a single - engine fighter with delta wings featuring leading edge extensions. Its fuselage is sleek and low - profile, optimized for agility, while it has a conventional tail assembly (vertical stabilizer with horizontal stabilizers at the rear). Distinctive visual features include its compact size and wingtip/nose shape typical of modern fighters."
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A2",
+      "ok": true,
+      "desc": "This military jet features swept wings with horizontal stabilizers in a T - tail arrangement, a slender fuselage with a pointed nose, twin engines mounted on the rear fuselage, and a delta - shaped wing design for aerodynamic efficiency at high speeds."
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The aircraft has low - mounted swept wings, a long cylindrical fuselage, four underwing engines, and a vertical stabilizer with horizontal tail surfaces. Its bulky heavy - bomber silhouette and wing configuration are distinctive visual traits."
+    },
+    {
+      "image": "2430.jpg",
+      "gt": "A2",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The military aircraft has a high - wing configuration with straight wings, a boxy fuselage, four engines mounted under the wings, and a T - tail design (horizontal stabilizers atop the vertical stabilizer). Distinctive features include its robust, utilitarian shape and high - wing layout."
+    },
+    {
+      "image": "2465.jpg",
+      "gt": "A11",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft has high - mounted swept - back wings with four underwing engines; a long, cylindrical fuselage characteristic of a heavy military transport; and a conventional tail with a single vertical stabilizer and horizontal stabilizers at the rear. Its large size and robust design for cargo operations are distinctive visual features."
+    },
+    {
+      "image": "248.jpg",
+      "gt": "A8",
+      "pred": "A11",
+      "ok": false,
+      "desc": "The military aircraft features high - swept wings with underwing pylon mounts, a streamlined fuselage, four turbofan engines (one per wing), twin vertical stabilizers with horizontal tail surfaces, and a robust strategic bomber design."
+    },
+    {
+      "image": "2500.jpg",
+      "gt": "A20",
+      "pred": "A6",
+      "ok": false,
+      "desc": "This military aircraft has delta - shaped swept wings, a streamlined pointed fuselage with a bubble canopy, twin engines mounted under the fuselage, a T - tail configuration, and angular contours typical of a modern fighter jet."
+    },
+    {
+      "image": "2515.jpg",
+      "gt": "A9",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The aircraft has high - mounted straight wings with four turboprop engines mounted under them, a boxy fuselage optimized for cargo transport, a conventional tail with horizontal stabilizers below the vertical fin, and is distinguished by its robust design tailored for heavy - lift operations."
+    },
+    {
+      "image": "2532.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The aircraft has swept-back wings with a mid-fuselage attachment, a streamlined fuselage, one under-fuselage engine, a vertical tail with rear-mounted horizontal stabilizers, and a compact angular design typical of modern fighter jets. Distinctive features include its low-profile silhouette and integrated aerodynamic surfaces for high-speed performance."
+    },
+    {
+      "image": "2552.jpg",
+      "gt": "A13",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings with leading - edge extensions, a streamlined fuselage with a pointed nose, a single engine mounted under the fuselage, twin vertical stabilizers, and a distinctive bubble canopy."
+    },
+    {
+      "image": "2589.jpg",
+      "gt": "A17",
+      "pred": "A5",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings, a streamlined fuselage, twin engines mounted under the wings, a T - tail configuration with horizontal stabilizers atop the vertical stabilizer, and a pointed nose\u2014characteristic of a modern multirole fighter."
+    },
+    {
+      "image": "261.jpg",
+      "gt": "A8",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a mid - wing configuration, a streamlined tapered fuselage, two underwing - mounted engines, a conventional tail with horizontal stabilizers, and an angular silhouette characteristic of a jet fighter or bomber."
+    },
+    {
+      "image": "264.jpg",
+      "gt": "A10",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept wings (mid - mounted) with a streamlined fuselage tapering toward the rear, twin engines mounted under the fuselage, vertical stabilizers paired with horizontal tail surfaces, and angular aerodynamic contours typical of a modern fighter jet."
+    },
+    {
+      "image": "2662.jpg",
+      "gt": "A19",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings (with a mid - set configuration), a streamlined fuselage with a pointed nose, twin engines mounted under the wings, a vertical tail assembly, and angular design features typical of a contemporary fighter jet."
+    },
+    {
+      "image": "2684.jpg",
+      "gt": "A17",
+      "pred": "A11",
+      "ok": false,
+      "desc": "The military aircraft has high - mounted swept wings, a long cylindrical fuselage, and four engines (likely underwing). It features twin vertical stabilizers on its tail, with no prominent afterburners or markings beyond its robust bomber - style design."
+    },
+    {
+      "image": "2696.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military jet features swept - back wings mounted at the mid - fuselage, a streamlined fuselage with a pointed nose, twin rear - mounted engines, a conventional tail assembly (vertical stabilizer plus horizontal tails), and angular, low - profile design characteristics."
+    },
+    {
+      "image": "2702.jpg",
+      "gt": "A20",
+      "pred": "A2",
+      "ok": false,
+      "desc": "This military jet features swept - back wings with a straight leading edge, a streamlined fuselage with a pointed nose, a single engine mounted under the fuselage, a conventional tail assembly with vertical and horizontal stabilizers, and lacks external stores or unique markings."
+    },
+    {
+      "image": "2706.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "desc": "The military aircraft has swept-back wings with twin engines mounted under the fuselage, a streamlined aerodynamic fuselage, a single vertical tail with horizontal stabilizers, and visible afterburner exhausts. It features a pointed nose and angular design typical of high-performance fighters."
+    },
+    {
+      "image": "2730.jpg",
+      "gt": "A16",
+      "pred": "A5",
+      "ok": false,
+      "desc": "This military aircraft features swept - back wings, a streamlined pointed - nose fuselage, twin underwing - mounted engines, a single vertical stabilizer with rear - mounted horizontal stabilizers, and an overall compact, aerodynamic design characteristic of modern multirole fighters."
+    },
+    {
+      "image": "2750.jpg",
+      "gt": "A16",
+      "pred": "A6",
+      "ok": false,
+      "desc": "This military aircraft has swept - back wings with leading - edge extensions (LEXs), a streamlined fuselage with a bubble canopy, one engine mounted under the fuselage, a single vertical tail with horizontal stabilizers, and distinctive wingtip LEXs."
+    },
+    {
+      "image": "2750.jpg",
+      "gt": "A16",
+      "pred": "A19",
+      "ok": false,
+      "desc": "The aircraft is a single - engine military jet with swept - back wings and a tapered fuselage that ends in a pointed nose. It has a conventional tail assembly (vertical stabilizer paired with horizontal stabilizers) and lacks visible markings, presenting the streamlined silhouette typical of modern fighter designs."
+    },
+    {
+      "image": "276.jpg",
+      "gt": "A2",
+      "pred": "A4",
+      "ok": false,
+      "desc": "This military aircraft has high - mounted straight wings with a swept leading edge, a boxy fuselage typical of a transport, four underwing engines, a conventional tail with a tall vertical stabilizer and low - set horizontal stabilizers, and standard camouflage."
+    },
+    {
+      "image": "2773.jpg",
+      "gt": "A1",
+      "pred": "A3",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings (likely delta or mid-swept), twin under-fuselage engines, a streamlined cylindrical fuselage with a pointed nose, a conventional tail assembly with vertical and horizontal stabilizers, and no prominent external markings beyond standard livery."
+    },
+    {
+      "image": "2782.jpg",
+      "gt": "A9",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The aircraft has straight wings extending from a long, cylindrical fuselage with four underwing engines. It uses a conventional tail featuring a vertical fin and horizontal stabilizers. Distinctive elements include the multi - engine configuration and broad wing span, typical of a heavy bomber like the B - 52 Stratofortress."
+    },
+    {
+      "image": "2798.jpg",
+      "gt": "A1",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a single engine mounted at the rear fuselage; its fuselage is slender and aerodynamic. The tail includes a vertical stabilizer paired with horizontal surfaces, and it features sharp wing leading edges as a distinctive visual trait."
+    },
+    {
+      "image": "2809.jpg",
+      "gt": "A10",
+      "pred": "A9",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings (likely in a delta or high - sweep configuration), a slender fuselage with a pointed nose, twin engines, a conventional tail with a single vertical stabilizer and horizontal surfaces, and distinctive swept - wing geometry suited for supersonic flight."
+    },
+    {
+      "image": "2821.jpg",
+      "gt": "A16",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft features swept - back low - wing configuration, a streamlined fuselage with a pointed nose, one engine, and a conventional tail with vertical stabilizers. Distinctive visual elements include a bubble canopy and possibly a delta - like wing shape."
+    },
+    {
+      "image": "2821.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "desc": "This military jet features swept wings with leading - edge extensions, a streamlined fuselage, one engine (single turbofan), a single vertical stabilizer with horizontal tail surfaces, and a pointed nose characteristic of the F - 16 Fighting Falcon."
+    },
+    {
+      "image": "2828.jpg",
+      "gt": "A13",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with a delta configuration, a streamlined fuselage, twin rear - mounted engines, a vertical tail with horizontal stabilizers, and angular lines characteristic of a modern fighter design."
+    },
+    {
+      "image": "2874.jpg",
+      "gt": "A17",
+      "pred": "A18",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a high - wing configuration, a long cylindrical fuselage typical of heavy bombers, four underwing - mounted engines, a conventional tail with a single vertical stabilizer and horizontal stabilizers at the rear, and distinctive underwing pylons for armaments."
+    },
+    {
+      "image": "2889.jpg",
+      "gt": "A19",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a mid - fuselage engine configuration, a streamlined fuselage with a single cockpit, twin engines mounted under the wings, a conventional tail assembly with vertical and horizontal stabilizers, and distinctive national markings on the fuselage."
+    },
+    {
+      "image": "2899.jpg",
+      "gt": "A14",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The military aircraft has a swept - back low - wing configuration, a streamlined fuselage, twin engines mounted under the wings, a conventional tail with a vertical stabilizer and horizontal stabilizers at its base, and visible underwing hardpoints for armaments."
+    },
+    {
+      "image": "291.jpg",
+      "gt": "A8",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings mounted at the mid - fuselage, a streamlined fuselage with a pointed nose, twin engines (likely underwing - mounted), a conventional tail with horizontal stabilizers and vertical surfaces, and angular design elements characteristic of a fighter jet."
+    },
+    {
+      "image": "2926.jpg",
+      "gt": "A12",
+      "pred": "A3",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings with a tapered leading edge, a streamlined fuselage with a pointed nose, two underwing engines, a conventional tail with vertical and horizontal stabilizers, and a sleek, angular silhouette characteristic of a fighter jet."
+    },
+    {
+      "image": "2946.jpg",
+      "gt": "A2",
+      "pred": "A5",
+      "ok": false,
+      "desc": "The aircraft has straight, mid - mounted wings with a slight forward sweep; a sleek, cylindrical fuselage with a pointed nose; two rear - mounted engines; a T - tail design with a tall vertical fin atop horizontal stabilizers; and a distinctive dorsal spine running along the fuselage."
+    },
+    {
+      "image": "2946.jpg",
+      "gt": "A2",
+      "pred": "A11",
+      "ok": false,
+      "desc": "The military aircraft has straight, low - mounted wings with a slight dihedral; a long, cylindrical fuselage with a pointed nose; and four engines (two per wing). It features a conventional tail assembly with horizontal stabilizers atop the vertical fin. Distinctive visual elements include its robust WWII - era bomber design."
+    },
+    {
+      "image": "2950.jpg",
+      "gt": "A17",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The aircraft is a four - engine heavy bomber with high - swept - back wings; its long cylindrical fuselage has four engines mounted under the wings. It has a conventional tail with horizontal stabilizers below a tall vertical fin and is distinguished by its large scale and multiple underwing nacelles."
+    },
+    {
+      "image": "2978.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "desc": "The military aircraft has high - mounted swept - back wings with four underwing turbofan engines, a long rectangular fuselage optimized for cargo transport, a conventional tail assembly featuring a vertical stabilizer and horizontal stabilizers, and distinctive markings on the fuselage."
+    },
+    {
+      "image": "2982.jpg",
+      "gt": "A9",
+      "pred": "A20",
+      "ok": false,
+      "desc": "The aircraft has swept wings with mid - fuselage attachment, a streamlined elongated fuselage, twin underwing engines, a conventional tail with vertical and horizontal stabilizers, and distinctive blue markings on the fuselage."
+    },
+    {
+      "image": "3010.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a single engine under the fuselage; its fuselage is streamlined and aerodynamic with a pointed nose. It sports a single vertical tail with rear - mounted horizontal stabilizers, and distinctive angular lines along with gray coloration typical of modern fighter jets."
+    },
+    {
+      "image": "3011.jpg",
+      "gt": "A16",
+      "pred": "A1",
+      "ok": false,
+      "desc": "The military aircraft has swept - back delta wings, a streamlined fuselage, twin engines mounted under the fuselage, a single vertical stabilizer with horizontal tail surfaces, and no visible external armaments or markings."
+    },
+    {
+      "image": "3022.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings, a streamlined fuselage, twin engines, a single vertical stabilizer with swept horizontal tails, and a pointed nose\u2014typical of a supersonic fighter jet."
+    },
+    {
+      "image": "3057.jpg",
+      "gt": "A10",
+      "pred": "A16",
+      "ok": false,
+      "desc": "This military aircraft has swept - back wings, a streamlined fuselage with a pointed nose, one engine, and a conventional vertical - horizontal tail assembly. Distinctive features include its compact aerodynamic shape and likely afterburner glow at the rear."
+    },
+    {
+      "image": "3068.jpg",
+      "gt": "A20",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept (or delta - shaped) wings with a high - aspect ratio configuration; a streamlined, cylindrical fuselage with a pointed nose; twin jet engines mounted under the wings; a conventional tail assembly with horizontal stabilizers at the rear of the vertical stabilizer; distinctive visual features include an aerodynamic profile and possibly visible afterburner exhausts."
+    },
+    {
+      "image": "3121.jpg",
+      "gt": "A17",
+      "pred": "A14",
+      "ok": false,
+      "desc": "This military aircraft has swept high wings with four engines (two under each wing), a long cylindrical fuselage, twin vertical stabilizers with swept tails, and is defined by its high - wing configuration suited for heavy bombing missions."
+    },
+    {
+      "image": "3137.jpg",
+      "gt": "A12",
+      "pred": "A11",
+      "ok": false,
+      "desc": "The aircraft has high - mounted swept - back wings, a long cylindrical fuselage, four engines (likely underwing), a conventional tail with horizontal stabilizers at the base of the vertical fin, and a distinctive nose shape typical of a heavy military transport/bomber."
+    },
+    {
+      "image": "3160.jpg",
+      "gt": "A5",
+      "pred": "A20",
+      "ok": false,
+      "desc": "This military aircraft has swept - back delta wings, a slender fuselage with a bubble canopy, twin engines mounted on the rear fuselage, and a single vertical tail with dual horizontal stabilizers. Distinctive features include its compact design and sharp wing leading edges."
+    },
+    {
+      "image": "3223.jpg",
+      "gt": "A13",
+      "pred": "A13",
+      "ok": true,
+      "desc": "The aircraft features swept - back wings, a streamlined pointed nose, two engines mounted under the fuselage, conventional vertical/horizontal tail surfaces, and a compact, aerodynamic design characteristic of modern fighters."
+    },
+    {
+      "image": "3228.jpg",
+      "gt": "A5",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings mounted at mid - fuselage, a sleek aerodynamic fuselage with a pointed nose and minimal external protrusions. It is powered by two rear - mounted engines (visible as under - fuselage exhausts) and features a T - tail configuration with horizontal stabilizers above the vertical fin\u2014key traits of modern multirole fighters."
+    },
+    {
+      "image": "3267.jpg",
+      "gt": "A19",
+      "pred": "A16",
+      "ok": false,
+      "desc": "This military aircraft has **swept - back wings** (likely delta - shaped), a **streamlined fuselage** with a pointed nose, **one engine**, a vertical tail with horizontal stabilizers, and an angular, modern fighter - jet design."
+    },
+    {
+      "image": "3280.jpg",
+      "gt": "A16",
+      "pred": "A16",
+      "ok": true,
+      "desc": "This military jet has swept wings with leading - edge extensions, a compact aerodynamic fuselage with a bubble canopy, one engine, a single vertical stabilizer, and twin horizontal stabilizers mounted low on the tail."
+    },
+    {
+      "image": "3293.jpg",
+      "gt": "A1",
+      "pred": "A5",
+      "ok": false,
+      "desc": "<|begin_of_box|>The military aircraft features straight wings with a slight forward sweep, a sleek fuselage with a pointed nose and bubble canopy, two rear-mounted engines, a T - tail design with horizontal stabilizers atop the vertical fin, and distinctive visual elements like its overall aerodynamic shape.<|end_of_box|>"
+    },
+    {
+      "image": "3315.jpg",
+      "gt": "A20",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has swept mid - mounted wings with a straight trailing edge, a streamlined fuselage with a pointed nose and bubble canopy, two turbofan engines in underwing nacelles, a conventional tail with a vertical stabilizer and horizontal stabilizers at the rear, and distinctive sharp leading edges on the wings."
+    },
+    {
+      "image": "3330.jpg",
+      "gt": "A19",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft features delta - shaped swept - back wings, a slender pointed fuselage, one engine mounted at the rear, and a T - tail (vertical stabilizer with high - positioned horizontal stabilizers). Distinctive visual elements include its blue coloration and streamlined fighter - jet design."
+    },
+    {
+      "image": "3417.jpg",
+      "gt": "A15",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft in the image has swept - back wings (likely delta - shaped), a sleek fuselage, two rear - mounted engines, a T - tail configuration with a single vertical stabilizer, and distinctive angular lines characteristic of modern fighter designs."
+    },
+    {
+      "image": "344.jpg",
+      "gt": "A11",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The aircraft features low - swept wings mounted under the fuselage (low - wing configuration), a long streamlined fuselage indicative of a heavy transport/bomber role, four rear - mounted engines, a conventional tail with horizontal stabilizers and a swept vertical fin, and no visible external armaments or distinctive markings beyond standard military livery."
+    },
+    {
+      "image": "3456.jpg",
+      "gt": "A13",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a mid - mounted configuration, a streamlined fuselage with a pointed nose, twin engines, conventional vertical stabilizers, and distinctive afterburner exhaust."
+    },
+    {
+      "image": "3483.jpg",
+      "gt": "A13",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has delta - shaped swept wings, a streamlined fuselage, one engine mounted on the rear fuselage, a conventional vertical stabilizer with horizontal tails, and a pointed nose\u2014typical of a high - performance fighter jet design."
+    },
+    {
+      "image": "349.jpg",
+      "gt": "A11",
+      "pred": "A18",
+      "ok": false,
+      "desc": "The military aircraft has high - aspect - ratio swept wings with underwing engine pods, a long cylindrical fuselage, four turbofan engines, a conventional tail with horizontal stabilizers below the vertical stabilizer, and a streamlined bomber - like profile typical of heavy strategic designs."
+    },
+    {
+      "image": "3528.jpg",
+      "gt": "A16",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with leading - edge extensions, a sleek fuselage, twin engines mounted under the wings, a conventional tail with twin vertical stabilizers, and distinctive angular air intakes along the fuselage sides."
+    },
+    {
+      "image": "3550.jpg",
+      "gt": "A15",
+      "pred": "A19",
+      "ok": false,
+      "desc": "The military aircraft is a fighter jet with swept (likely delta) wings, a slender aerodynamic fuselage, twin engines under the wings, a vertical stabilizer with horizontal tailplanes, and an afterburner exhaust visible. Its design prioritizes high-speed performance through streamlined features."
+    },
+    {
+      "image": "3561.jpg",
+      "gt": "A20",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings with a mid-mounted configuration, a streamlined fuselage, twin rear-mounted turbofan engines, a conventional tail with a vertical stabilizer and horizontal stabilizers at the base, and a pointed nose with a canopy."
+    },
+    {
+      "image": "3659.jpg",
+      "gt": "A16",
+      "pred": "A13",
+      "ok": false,
+      "desc": "This military aircraft has swept - back wings with a tapered trailing edge, a robust fuselage with a pointed nose, twin engines mounted under the wings, twin vertical stabilizers with horizontal tail surfaces at their bases, and distinctive afterburner exhausts."
+    },
+    {
+      "image": "3661.jpg",
+      "gt": "A5",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings with leading edge extensions, a streamlined fuselage, twin engines mounted under the wings, a conventional tail assembly with horizontal stabilizers at the rear, and angular design elements typical of a modern jet fighter."
+    },
+    {
+      "image": "3682.jpg",
+      "gt": "A16",
+      "pred": "A20",
+      "ok": false,
+      "desc": "This military aircraft features swept - back wings, a single engine mounted on the fuselage, a slender aerodynamic fuselage with a pointed nose, and a conventional tail design (vertical stabilizer with horizontal stabilizers). It has no prominent external markings or stores, emphasizing its streamlined profile."
+    },
+    {
+      "image": "3700.jpg",
+      "gt": "A17",
+      "pred": "A8",
+      "ok": false,
+      "desc": "The military aircraft has high - aspect ratio swept - back wings with leading - edge extensions, a long cylindrical fuselage, four turbofan engines mounted under the wings, a T - tail configuration, and distinctive swept wings characteristic of strategic bombers."
+    },
+    {
+      "image": "3720.jpg",
+      "gt": "A1",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with forward-swept leading edges, a streamlined fuselage with a pointed nose, two rear-mounted engines, and a T-tail configuration (vertical stabilizer tall, horizontal stabilizers high on the fuselage). Distinctive features include sharp wingtip extensions and an angular tail assembly."
+    },
+    {
+      "image": "3730.jpg",
+      "gt": "A20",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a mid - mounted configuration, a streamlined fuselage with a pointed nose, one jet engine mounted under the fuselage, a conventional tail with vertical and horizontal stabilizers, and angular surfaces characteristic of a fighter design."
+    },
+    {
+      "image": "3742.jpg",
+      "gt": "A17",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings (with a delta - like shape), a streamlined fuselage, two underwing engines, a T - tail configuration with horizontal stabilizers atop the vertical stabilizer, and visible afterburner exhausts at the rear."
+    },
+    {
+      "image": "3757.jpg",
+      "gt": "A17",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings (likely mid - mounted), a sleek aerodynamic fuselage, twin engines under the wings, a conventional tail with a single vertical stabilizer, and a pointed nose\u2014typical of a high - speed combat jet."
+    },
+    {
+      "image": "3775.jpg",
+      "gt": "A6",
+      "pred": "A9",
+      "ok": false,
+      "desc": "The military aircraft features swept wings with a mid-fuselage engine placement, a slender pointed fuselage, twin engines mounted under the wings, a conventional tail with horizontal stabilizers at the rear and vertical stabilizer, and distinctive swept-wing geometry typical of high-speed combat jets."
+    },
+    {
+      "image": "3812.jpg",
+      "gt": "A12",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings with a mid - mounted layout, a sleek cylindrical fuselage, twin engines under the wings, a T - tail with a vertical stabilizer and horizontal stabilizers at the top, and distinctive sharp wingtips."
+    },
+    {
+      "image": "3814.jpg",
+      "gt": "A19",
+      "pred": "A1",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with a delta configuration, a streamlined fuselage and pointed nose for supersonic flight, twin engines mounted under the wings, and twin vertical stabilizers. Distinctive elements include its angular airframe optimized for high - performance military operations."
+    },
+    {
+      "image": "3833.jpg",
+      "gt": "A9",
+      "pred": "A20",
+      "ok": false,
+      "desc": "The aircraft has swept-back wings with a streamlined fuselage, twin underwing engines, a conventional tail assembly with vertical and horizontal stabilizers, and distinctive wingtip extensions for control."
+    },
+    {
+      "image": "399.jpg",
+      "gt": "A16",
+      "pred": "A3",
+      "ok": false,
+      "desc": "This military jet has swept - back wings, a sleek fuselage with a pointed nose and bubble canopy, twin engines mounted under the wings, a conventional tail with a single vertical stabilizer and horizontal stabilizers at the rear, and is distinguished by its aerodynamic design and twin - engine configuration."
+    },
+    {
+      "image": "428.jpg",
+      "gt": "A9",
+      "pred": "A2",
+      "ok": false,
+      "desc": "This military aircraft has straight wings with a slight forward sweep, a streamlined fuselage with a pointed nose, one engine mounted under the wing, a conventional tail with vertical and horizontal stabilizers, and distinctive markings (or shape) typical of its design."
+    },
+    {
+      "image": "439.jpg",
+      "gt": "A1",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The aircraft features swept - back delta wings (low - mounted), a streamlined fuselage, one turbofan engine under the fuselage, a conventional tail with horizontal stabilizers at the rear, and a pointed nose\u2014characteristic of a supersonic fighter jet."
+    },
+    {
+      "image": "481.jpg",
+      "gt": "A17",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has straight, low - aspect - ratio wings with multiple hardpoints; a short, stubby fuselage with a single cockpit and pointed nose; two rear - mounted turbofan engines. Its tail includes a conventional vertical stabilizer with swept horizontal stabilizers, and it is distinctive for its close - air - support design."
+    },
+    {
+      "image": "489.jpg",
+      "gt": "A3",
+      "pred": "A18",
+      "ok": false,
+      "desc": "The aircraft has swept low - mounted wings with a high aspect ratio, a long cylindrical fuselage, four engines mounted under the wings, a conventional tail with twin vertical stabilizers, and a pointed nose typical of a heavy strategic bomber or transport design."
+    },
+    {
+      "image": "521.jpg",
+      "gt": "A3",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with twin engines mounted under them, a streamlined fuselage with a pointed nose, a conventional vertical stabilizer paired with horizontal tails at the rear, and no visible canards or unique external protrusions."
+    },
+    {
+      "image": "533.jpg",
+      "gt": "A14",
+      "pred": "A10",
+      "ok": false,
+      "desc": "<|begin_of_box|>The military aircraft features a delta - wing configuration with swept - back leading edges, a slender fuselage with a pointed nose and bubble canopy, a single engine mounted at the rear of the fuselage, twin vertical stabilizers forming a \"V\" tail, and distinctive swept wings characteristic of supersonic interceptor design.<|end_of_box|>"
+    },
+    {
+      "image": "538.jpg",
+      "gt": "A14",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has high - mounted straight wings extending from a central fuselage, twin engines (one on each side of the fuselage), a vertical tail fin at the rear, and a simplified schematic design that highlights basic aerodynamic configuration."
+    },
+    {
+      "image": "542.jpg",
+      "gt": "A13",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept - back delta wings, a sleek aerodynamic fuselage, twin engines, a vertical tail with horizontal stabilizers, and angular design elements typical of a high - performance fighter jet."
+    },
+    {
+      "image": "549.jpg",
+      "gt": "A16",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft has swept - back wings with a mid - mounted configuration, a streamlined fuselage, twin rear - mounted engines, a vertical stabilizer with horizontal tail surfaces, and angular design elements typical of a modern fighter jet. Its distinctive features include the sharp wing sweep and compact silhouette."
+    },
+    {
+      "image": "552.jpg",
+      "gt": "A14",
+      "pred": "A5",
+      "ok": false,
+      "desc": "<|begin_of_box|>The military aircraft features swept - back mid - wing configuration, a tapered fuselage, two jet engines mounted under the wings, a T - tail design with horizontal stabilizers above the vertical stabilizer, and distinctive twin vertical fins at the tail.<|end_of_box|>"
+    },
+    {
+      "image": "565.jpg",
+      "gt": "A3",
+      "pred": "A16",
+      "ok": false,
+      "desc": "The military aircraft has swept-forward wings, a tapered fuselage with a pointed nose, twin engines mounted on the rear fuselage, a conventional tail with a single vertical stabilizer and horizontal tails at the rear, and a streamlined profile typical of a modern fighter jet."
+    },
+    {
+      "image": "568.jpg",
+      "gt": "A3",
+      "pred": "A5",
+      "ok": false,
+      "desc": "The military aircraft features swept mid - mounted wings, a streamlined fuselage with a pointed nose, twin engines under the wings, a T - tail (horizontal stabilizers atop the vertical stabilizer), and an angular design characteristic of a fighter jet."
+    },
+    {
+      "image": "576.jpg",
+      "gt": "A3",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The military aircraft features low - swept wings with underwing hardpoints, a long cylindrical fuselage, four engines mounted under the wings, a conventional tail with twin vertical stabilizers, and visible external armament or fuel tanks."
+    },
+    {
+      "image": "578.jpg",
+      "gt": "A18",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The aircraft has swept-back wings (likely delta or swept), a streamlined fuselage with a pointed nose, one rear-mounted engine, twin vertical stabilizers, and angular tail surfaces. Distinctive visual elements include sharp aerodynamic lines typical of high-performance military jets."
+    },
+    {
+      "image": "597.jpg",
+      "gt": "A4",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with armament hardpoints, a long tapered fuselage and pointed nose, twin engines mounted under the wings, a conventional tail with horizontal stabilizers at the rear, and distinctive missile pylons along the wing leading edges."
+    },
+    {
+      "image": "599.jpg",
+      "gt": "A18",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings with a mid-fuselage placement, a sleek, low-profile fuselage, twin engines mounted under the wings, a T-tail configuration with vertical stabilizers, and angular leading edges suggesting a fighter design."
+    },
+    {
+      "image": "619.jpg",
+      "gt": "A4",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The military aircraft has a high - wing configuration with swept leading edges and tapered tips; its fuselage is long and cylindrical. It is powered by four engines mounted under the wings, features a conventional tail with a vertical stabilizer and horizontal stabilizers at the base of the fuselage, and displays a distinctive bomber - like silhouette."
+    },
+    {
+      "image": "644.jpg",
+      "gt": "A3",
+      "pred": "A7",
+      "ok": false,
+      "desc": "The military aircraft has swept wings with a straight leading edge, a long cylindrical fuselage with a pointed nose, four engines mounted under the wings, a conventional tail with vertical and horizontal stabilizers, and distinctive swept - back wing configuration for supersonic flight."
+    },
+    {
+      "image": "647.jpg",
+      "gt": "A3",
+      "pred": "A4",
+      "ok": false,
+      "desc": "This military aircraft has high - swept wings with four underwing engines; its fuselage is long and cylindrical (typical of a heavy transport), featuring a conventional tail design with twin vertical stabilizers. Its utilitarian, unmarked appearance aligns with that of a strategic airlifter."
+    },
+    {
+      "image": "671.jpg",
+      "gt": "A3",
+      "pred": "A5",
+      "ok": false,
+      "desc": "The aircraft has straight, high - wing configuration with multiple hardpoints under the wings. Its fuselage is short and robust, housing a single cockpit. It features twin rear - mounted engines and a conventional tail with horizontal stabilizers atop the vertical fin. Distinctive elements include the straight wings optimized for close air support and the twin engine placement."
+    },
+    {
+      "image": "682.jpg",
+      "gt": "A14",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The military aircraft has swept mid - mounted wings, a streamlined fuselage with a pointed nose, two rear - mounted engines, a single vertical stabilizer with horizontal stabilizers, and a delta - wing configuration."
+    },
+    {
+      "image": "699.jpg",
+      "gt": "A14",
+      "pred": "A13",
+      "ok": false,
+      "desc": "The military aircraft features swept wings (likely delta - shaped), a streamlined fuselage with a pointed nose, twin engines mounted under the fuselage, a conventional tail with horizontal stabilizers at the rear, and no distinctive external stores\u2014typical of a supersonic fighter design."
+    },
+    {
+      "image": "702.jpg",
+      "gt": "A7",
+      "pred": "A3",
+      "ok": false,
+      "desc": "The military aircraft features swept wings with leading - edge extensions, a streamlined cylindrical fuselage, twin rear - mounted jet engines, a conventional tail with vertical and horizontal stabilizers, and a pointed nose (typical of a fighter jet)."
+    },
+    {
+      "image": "71.jpg",
+      "gt": "A3",
+      "pred": "A20",
+      "ok": false,
+      "desc": "The military aircraft features delta - shaped swept wings, a sleek fuselage with a pointed nose, two underwing - mounted engines, a conventional vertical - horizontal tail design, and a small cross symbol on top of the fuselage."
+    },
+    {
+      "image": "725.jpg",
+      "gt": "A13",
+      "pred": "A17",
+      "ok": false,
+      "desc": "The military aircraft has swept-back wings with a mid-wing configuration, a streamlined fuselage with a pointed nose, twin engines mounted under the wings, a conventional tail with horizontal stabilizers at the base of the vertical fin, and distinctive markings (or shape) that identify it as a specific type."
+    },
+    {
+      "image": "769.jpg",
+      "gt": "A15",
+      "pred": "A10",
+      "ok": false,
+      "desc": "The military aircraft has delta - shaped swept wings, a streamlined fuselage, one engine mounted at the rear, a T - tail configuration with horizontal stabilizers atop the vertical fin, and no visible external armaments or stores."
+    },
+    {
+      "image": "794.jpg",
+      "gt": "A12",
+      "pred": "A20",
+      "ok": false,
+      "desc": "This military aircraft has swept - back wings with a mid - wing configuration, a streamlined fuselage, twin engines mounted under the wings, a conventional tail with vertical and horizontal stabilizers, and tall vertical stabilizers as a distinctive visual feature."
+    },
+    {
+      "image": "8.jpg",
+      "gt": "A2",
+      "pred": "A14",
+      "ok": false,
+      "desc": "This military aircraft has high - wing straight wings, a long streamlined fuselage, four radial engines mounted under the wings, and a conventional tail with vertical and horizontal stabilizers. Distinctive elements include its heavy bomber design (resembling a World War II - era B - 17) with radial engine nacelles and a robust airframe."
+    },
+    {
+      "image": "825.jpg",
+      "gt": "A4",
+      "pred": "A18",
+      "ok": false,
+      "desc": "This military aircraft is a four - engine transport plane with high, straight wings; a long, cylindrical fuselage and pointed nose; a T - tail configuration; and distinctive markings (\u201cJV20\u201d) on the rear fuselage."
+    },
+    {
+      "image": "826.jpg",
+      "gt": "A13",
+      "pred": "A6",
+      "ok": false,
+      "desc": "The aircraft has swept - back wings with leading - edge extensions, a streamlined fuselage, one engine mounted under the fuselage, twin vertical stabilizers, and a pointed nose typical of a fighter jet."
+    },
+    {
+      "image": "849.jpg",
+      "gt": "A20",
+      "pred": "A12",
+      "ok": false,
+      "desc": "The military aircraft features swept - back wings with a mid - fuselage twin - engine configuration; its fuselage is streamlined and cylindrical, equipped with a T - tail (vertical stabilizer above horizontal stabilizers), and has a pointed nose as a distinctive visual element."
+    },
+    {
+      "image": "870.jpg",
+      "gt": "A10",
+      "pred": "A16",
+      "ok": false,
+      "desc": "This military aircraft has swept - back mid - mounted wings, a streamlined aerodynamic fuselage, a single engine mounted on the rear fuselage, conventional tail with vertical and horizontal stabilizers, and angular fighter jet characteristics (consistent with an F - 16)."
+    },
+    {
+      "image": "875.jpg",
+      "gt": "A5",
+      "pred": "A13",
+      "ok": false,
+      "desc": "This military aircraft features swept - back wings (likely delta - shaped), a sleek aerodynamic fuselage, twin engines mounted under the wings, a vertical tail with horizontal stabilizers, and no visible canards\u2014characteristic of a conventional fighter jet design."
+    },
+    {
+      "image": "88.jpg",
+      "gt": "A3",
+      "pred": "A2",
+      "ok": false,
+      "desc": "The military aircraft features low - swept wings with underwing engine mounts, a streamlined fuselage with a pointed nose, four engines mounted on the rear fuselage, a conventional tail with horizontal stabilizers below the vertical stabilizer, and no prominent markings beyond its light gray color."
+    },
+    {
+      "image": "887.jpg",
+      "gt": "A19",
+      "pred": "A9",
+      "ok": false,
+      "desc": "This military aircraft has swept mid - mounted wings, a streamlined fuselage with a pointed nose, twin underwing engines, a conventional tail with horizontal stabilizers, and distinctive angular wingtips."
+    },
+    {
+      "image": "901.jpg",
+      "gt": "A2",
+      "pred": "A14",
+      "ok": false,
+      "desc": "The aircraft has high-swept wings mounted on a long cylindrical fuselage with a pointed nose, four engines (two per wing), and a conventional tail with horizontal stabilizers below the vertical stabilizer. Distinctive features include its high-wing configuration and multi-engine layout for heavy-lift capabilities."
+    }
+  ]
+}
