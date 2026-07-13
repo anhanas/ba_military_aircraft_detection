@@ -1,0 +1,94 @@
+Detection Results,Performance Metrics,Detection Summary,timestamp
+"{""path"": "".gradio/cached_examples/20/Detection Results/2a1fb429a346863eff2b/image.webp"", ""url"": ""/gradio_api/file=/private/var/folders/kb/342kscr513lc7w56601gb3y00000gn/T/gradio/b6e160928f846c597a4455042a5b2c15e56cb64af6eb11dc2b72b35a461d9c39/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","{""Error"": ""Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.\nA class for storing and manipulating Oriented Bounding Boxes (OBB).\n\nThis class provides functionality to handle oriented bounding boxes, including conversion between different formats,\nnormalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.\n\nAttributes:\n    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.\n    orig_shape (tuple[int, int]): Original image size as (height, width).\n    is_track (bool): Indicates whether tracking IDs are included in the box data.\n    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.\n    conf (torch.Tensor | np.ndarray): Confidence scores for each box.\n    cls (torch.Tensor | np.ndarray): Class labels for each box.\n    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.\n    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.\n    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.\n    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.\n\nMethods:\n    cpu: Return a copy of the OBB object with all tensors on CPU memory.\n    numpy: Return a copy of the OBB object with all tensors as numpy arrays.\n    cuda: Return a copy of the OBB object with all tensors on GPU memory.\n    to: Return a copy of the OBB object with tensors on specified device and dtype.\n\nExamples:\n    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls\n    >>> obb = OBB(boxes, orig_shape=(480, 640))\n    >>> print(obb.xyxyxyxy)\n    >>> print(obb.conf)\n    >>> print(obb.cls)\n""}","'Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.
+A class for storing and manipulating Oriented Bounding Boxes (OBB).
+
+This class provides functionality to handle oriented bounding boxes, including conversion between different formats,
+normalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.
+
+Attributes:
+    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.
+    orig_shape (tuple[int, int]): Original image size as (height, width).
+    is_track (bool): Indicates whether tracking IDs are included in the box data.
+    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.
+    conf (torch.Tensor | np.ndarray): Confidence scores for each box.
+    cls (torch.Tensor | np.ndarray): Class labels for each box.
+    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.
+    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.
+    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.
+    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.
+
+Methods:
+    cpu: Return a copy of the OBB object with all tensors on CPU memory.
+    numpy: Return a copy of the OBB object with all tensors as numpy arrays.
+    cuda: Return a copy of the OBB object with all tensors on GPU memory.
+    to: Return a copy of the OBB object with tensors on specified device and dtype.
+
+Examples:
+    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls
+    >>> obb = OBB(boxes, orig_shape=(480, 640))
+    >>> print(obb.xyxyxyxy)
+    >>> print(obb.conf)
+    >>> print(obb.cls)
+",2026-07-05 14:43:50.911253
+"{""path"": "".gradio/cached_examples/20/Detection Results/382d9e9eee3961e711bc/image.webp"", ""url"": ""/gradio_api/file=/private/var/folders/kb/342kscr513lc7w56601gb3y00000gn/T/gradio/6dd89d865474b7970be82a3ac8f8a25df7ad875a397e56c59b44c2cd497d8980/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","{""Error"": ""Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.\nA class for storing and manipulating Oriented Bounding Boxes (OBB).\n\nThis class provides functionality to handle oriented bounding boxes, including conversion between different formats,\nnormalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.\n\nAttributes:\n    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.\n    orig_shape (tuple[int, int]): Original image size as (height, width).\n    is_track (bool): Indicates whether tracking IDs are included in the box data.\n    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.\n    conf (torch.Tensor | np.ndarray): Confidence scores for each box.\n    cls (torch.Tensor | np.ndarray): Class labels for each box.\n    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.\n    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.\n    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.\n    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.\n\nMethods:\n    cpu: Return a copy of the OBB object with all tensors on CPU memory.\n    numpy: Return a copy of the OBB object with all tensors as numpy arrays.\n    cuda: Return a copy of the OBB object with all tensors on GPU memory.\n    to: Return a copy of the OBB object with tensors on specified device and dtype.\n\nExamples:\n    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls\n    >>> obb = OBB(boxes, orig_shape=(480, 640))\n    >>> print(obb.xyxyxyxy)\n    >>> print(obb.conf)\n    >>> print(obb.cls)\n""}","'Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.
+A class for storing and manipulating Oriented Bounding Boxes (OBB).
+
+This class provides functionality to handle oriented bounding boxes, including conversion between different formats,
+normalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.
+
+Attributes:
+    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.
+    orig_shape (tuple[int, int]): Original image size as (height, width).
+    is_track (bool): Indicates whether tracking IDs are included in the box data.
+    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.
+    conf (torch.Tensor | np.ndarray): Confidence scores for each box.
+    cls (torch.Tensor | np.ndarray): Class labels for each box.
+    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.
+    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.
+    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.
+    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.
+
+Methods:
+    cpu: Return a copy of the OBB object with all tensors on CPU memory.
+    numpy: Return a copy of the OBB object with all tensors as numpy arrays.
+    cuda: Return a copy of the OBB object with all tensors on GPU memory.
+    to: Return a copy of the OBB object with tensors on specified device and dtype.
+
+Examples:
+    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls
+    >>> obb = OBB(boxes, orig_shape=(480, 640))
+    >>> print(obb.xyxyxyxy)
+    >>> print(obb.conf)
+    >>> print(obb.cls)
+",2026-07-05 14:43:51.489661
+"{""path"": "".gradio/cached_examples/20/Detection Results/507b8e9398c07b2d815f/image.webp"", ""url"": ""/gradio_api/file=/private/var/folders/kb/342kscr513lc7w56601gb3y00000gn/T/gradio/da428a7625493a680180585ef8c01c18d2718282d7ba28281f2e8e32122e814b/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","{""Error"": ""Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.\nA class for storing and manipulating Oriented Bounding Boxes (OBB).\n\nThis class provides functionality to handle oriented bounding boxes, including conversion between different formats,\nnormalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.\n\nAttributes:\n    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.\n    orig_shape (tuple[int, int]): Original image size as (height, width).\n    is_track (bool): Indicates whether tracking IDs are included in the box data.\n    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.\n    conf (torch.Tensor | np.ndarray): Confidence scores for each box.\n    cls (torch.Tensor | np.ndarray): Class labels for each box.\n    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.\n    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.\n    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.\n    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.\n\nMethods:\n    cpu: Return a copy of the OBB object with all tensors on CPU memory.\n    numpy: Return a copy of the OBB object with all tensors as numpy arrays.\n    cuda: Return a copy of the OBB object with all tensors on GPU memory.\n    to: Return a copy of the OBB object with tensors on specified device and dtype.\n\nExamples:\n    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls\n    >>> obb = OBB(boxes, orig_shape=(480, 640))\n    >>> print(obb.xyxyxyxy)\n    >>> print(obb.conf)\n    >>> print(obb.cls)\n""}","'Error during prediction: 'OBB' object has no attribute 'xywha'. See valid attributes below.
+A class for storing and manipulating Oriented Bounding Boxes (OBB).
+
+This class provides functionality to handle oriented bounding boxes, including conversion between different formats,
+normalization, and access to various properties of the boxes. It supports both tracking and non-tracking scenarios.
+
+Attributes:
+    data (torch.Tensor): The raw OBB tensor containing box coordinates and associated data.
+    orig_shape (tuple[int, int]): Original image size as (height, width).
+    is_track (bool): Indicates whether tracking IDs are included in the box data.
+    xywhr (torch.Tensor | np.ndarray): Boxes in [x_center, y_center, width, height, rotation] format.
+    conf (torch.Tensor | np.ndarray): Confidence scores for each box.
+    cls (torch.Tensor | np.ndarray): Class labels for each box.
+    id (torch.Tensor | np.ndarray): Tracking IDs for each box, if available.
+    xyxyxyxy (torch.Tensor | np.ndarray): Boxes in 8-point [x1, y1, x2, y2, x3, y3, x4, y4] format.
+    xyxyxyxyn (torch.Tensor | np.ndarray): Normalized 8-point coordinates relative to orig_shape.
+    xyxy (torch.Tensor | np.ndarray): Axis-aligned bounding boxes in [x1, y1, x2, y2] format.
+
+Methods:
+    cpu: Return a copy of the OBB object with all tensors on CPU memory.
+    numpy: Return a copy of the OBB object with all tensors as numpy arrays.
+    cuda: Return a copy of the OBB object with all tensors on GPU memory.
+    to: Return a copy of the OBB object with tensors on specified device and dtype.
+
+Examples:
+    >>> boxes = torch.tensor([[100, 50, 150, 100, 30, 0.9, 0]])  # xywhr, conf, cls
+    >>> obb = OBB(boxes, orig_shape=(480, 640))
+    >>> print(obb.xyxyxyxy)
+    >>> print(obb.conf)
+    >>> print(obb.cls)
+",2026-07-05 14:43:51.782762
